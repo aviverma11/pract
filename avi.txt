@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-this is avinash
-he is java developer
-=======
 this is avinash Verma
 And i am doing java practise.
 I am watching movies
->>>>>>> Stashed changes
+
